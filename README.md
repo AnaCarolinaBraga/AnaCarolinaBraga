@@ -20,7 +20,7 @@
 <div align="center">
   <a href="https://github.com/AnaCarolinaBraga">
   <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaBraga&theme=radical"/>
-  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaBraga&layout=compact&theme=radical"/>
+  <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaBraga&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
