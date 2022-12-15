@@ -12,15 +12,15 @@
 <div align="center">
 <h5> Fiz um bootcamp de Java pela <a href="https://womakerscode.org/bootcamp-java">Womakers</a>;</h5> 
 <h5> Entrei como Trainee de Web Full Stack no Banco Safra através do programa <a href="https://letscode.com.br/processos-seletivos/safra-top-coders">Top Coders<a/>; </h5>
-<h5> Recebi uma formação intensiva de oito meses em .NET e Angular;</h5>
+<h5> Recebi uma formação intensiva de oito meses em .NET e Angular, onde eu me apaixonei por C#;</h5>
 <h5> Além disso, participei do setor de Excelência de APIs, que era responsável por analisar os contratos das APIs e padroniza-las seguindo o modelo REST; </h5>
 <h5> Isso me possibilitou ser uma desenvolvedora Full Stack, focada em .NET e Angular. </h5>
 </div>
 
 <div align="center">
   <a href="https://github.com/AnaCarolinaBraga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaBraga&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaBraga&layout=compact&theme=radical"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaBraga&theme=radical"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaBraga&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
