@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/AnaCarolinaBraga">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaBraga&theme=radical"/>
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaBraga&layout=compact&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaBraga&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaBraga&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
